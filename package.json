@@ -1,0 +1,22 @@
+{
+	"name": "node-red-contrib-func-exec",
+	"version": "0.1.0",
+	"description": "The executable context node which allows you to execute your functions in javascript block.",
+	"dependencies": {		
+	},
+	"license": "Apache-2.0",
+	"keywords": ["node-red", "function", "child_process"],
+	"node-red": {
+		"nodes": {
+			"func-exec": "func-exec.js"
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cuongquay/node-red-contrib-func-exec"
+	},
+	"author": {
+		"name": "DUONG Dinh Cuong",
+		"email": "cuong3ihut@gmail.com"
+	}
+}
