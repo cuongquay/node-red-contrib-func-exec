@@ -1,2 +1,2 @@
-# node-red-contrib-server-sent-events
-The Pub/Sub protocol based on HTML5 Server Sent Events specification node 
+# node-red-contrib-func-exec
+The node-red function with child_process executable object in the sandbox context.
