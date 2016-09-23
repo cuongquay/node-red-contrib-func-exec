@@ -82,9 +82,9 @@ module.exports = function(RED) {
 				}
 			},
 			context : {
-				global : RED.settings.functionGlobalContext || {}
-			},
-			userDir : RED.settings.userDir,
+				global : RED.settings.functionGlobalContext || {},
+				userDir : RED.settings.userDir
+			},			
 			setTimeout : setTimeout,
 			clearTimeout : clearTimeout
 		};
