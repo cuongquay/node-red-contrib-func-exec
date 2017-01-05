@@ -57,7 +57,7 @@ module.exports = function(RED) {
 			callback : function(results) {
 				sendResults(node, node.name, results);
 			},
-			http: require('http'),
+			request: require('request'),
 			child_process : child_process,
 			console : console,
 			util : util,

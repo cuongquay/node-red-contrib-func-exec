@@ -2,7 +2,9 @@
 	"name": "node-red-contrib-func-exec",
 	"version": "0.1.4",
 	"description": "The executable context node which allows you to execute your functions in javascript block.",
-	"dependencies": {},
+	"dependencies": {
+		"request": "~2.79.0"
+	},
 	"license": "Apache-2.0",
 	"keywords": [
 		"node-red",
