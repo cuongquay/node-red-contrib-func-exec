@@ -3,7 +3,7 @@
 	"version": "0.1.6",
 	"description": "The executable context node which allows you to execute your functions in javascript block.",
 	"dependencies": {
-		"request": "~2.79.0"
+		"request": "~2.88.0"
 	},
 	"license": "Apache-2.0",
 	"keywords": [
