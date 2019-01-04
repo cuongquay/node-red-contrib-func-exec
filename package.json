@@ -1,6 +1,6 @@
 {
 	"name": "node-red-contrib-func-exec",
-	"version": "0.1.10",
+	"version": "0.1.11",
 	"description": "The executable context node which allows you to execute your functions in javascript block.",
 	"dependencies": {
 		"request": "^2.88.0"
